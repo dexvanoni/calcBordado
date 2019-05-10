@@ -48,7 +48,7 @@ class SocialAuthFacebookController extends Controller
 
         if ($consulta == 0) {
             Session::flush();
-            return redirect('/#')
+            return redirect('/home#')
                         ->with('success','Você ainda não possui acesso à Calculadora de Bordados Eletrônicos.');
                 }else{
 
@@ -70,7 +70,7 @@ class SocialAuthFacebookController extends Controller
                                 return view('home', compact('parametros'));        
                          } else {
                             Session::flush();
-                            return redirect('/#')
+                            return redirect('/home#')
                                 ->with('success','Seu acesso já expirou!! Favor clicar em Solicitar Acesso.');
                          }
                 
