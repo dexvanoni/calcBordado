@@ -16,7 +16,7 @@ return [
     'facebook' => [
     'client_id' => '452690982189196',
     'client_secret' => '0aba067d2451d718867d7e43a11b1263',
-    'redirect' => 'http://www.dfbordados.com.br/login/facebook/callback',
+    'redirect' => 'https://www.dfbordados.com.br/login/facebook/callback',
 ],
 
     'mailgun' => [
