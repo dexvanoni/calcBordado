@@ -20,11 +20,11 @@ Auth::routes();
 Route::get('/home', 'HomeController@index')->name('home');
 Route::get('/administracao', 'AdministracaoController@index')->name('administracao');
 
-Route::get('login/facebook', 'Auth\LoginController@redirectToProvider');
-Route::get('login/facebook/callback', 'Auth\LoginController@handleProviderCallback');
+//Route::get('login/facebook', 'Auth\LoginController@redirectToProvider');
+//Route::get('login/facebook/callback', 'Auth\LoginController@handleProviderCallback');
 
-//Route::get('/redirect', 'SocialAuthFacebookController@redirect')->name('red');
-//Route::get('/callback', 'SocialAuthFacebookController@callback')->name('call');
+Route::get('/redirect', 'SocialAuthFacebookController@redirect')->name('red');
+Route::get('/callback', 'SocialAuthFacebookController@callback')->name('call');
 
 Route::resource('permitidos','PermitidoController');
 Route::resource('parametros','ParametroController');

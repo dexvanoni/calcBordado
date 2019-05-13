@@ -35,9 +35,7 @@ class SocialAuthFacebookController extends Controller
        $user = $service->createOrGetUser(Socialite::driver('facebook')->user());
         auth()->login($user);
 
-        dd($user);
-
-        // se o usuário existe na tabela permitidos, ele entra, se não, sai
+         // se o usuário existe na tabela permitidos, ele entra, se não, sai
         $consulta = DB::table('permitidos')->where('email', '=', $user->email)->count();
         $permitido = DB::table('permitidos')->where('email', '=', $user->email)->first();
 

@@ -26,33 +26,16 @@ class LoginController extends Controller
      *
      * @var string
      */
-    //protected $redirectTo = '/home';
+    protected $redirectTo = '/home';
 
     /**
      * Create a new controller instance.
      *
      * @return void
      */
-    /*public function __construct()
+    public function __construct()
     {
         $this->middleware('guest')->except('logout');
-    }*/
-
-     public function redirectToProvider()
-    {
-        return Socialite::driver('facebook')->redirect();
     }
 
-    /**
-     * Obtain the user information from GitHub.
-     *
-     * @return \Illuminate\Http\Response
-     */
-    public function handleProviderCallback()
-    {
-        $userSocial = Socialite::driver('facebook')->user();
-
-        dd($userSocial);
-        // $user->token;
-    }
 }
