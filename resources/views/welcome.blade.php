@@ -70,7 +70,7 @@
             @auth
             <a href="{{ route('red') }}">Calculadora</a>
             @else
-            <a href="{{ route('login') }}">Login</a>
+            <a href="{{ route('red') }}">Login</a>
 
             @if (Route::has('register'))
             <a href="#" data-toggle="modal" data-target="#pg"> Solicitar Acesso</a>
@@ -81,7 +81,7 @@
 
         <div class="content">
             <div class="title m-b-md">
-                CALCULADORA DE BORDADOS ELETRÔNICOS - fff
+                CALCULADORA DE BORDADOS ELETRÔNICOS
             </div>
                 @if (session('success'))
                     <div class="alert alert-danger" role="alert">
