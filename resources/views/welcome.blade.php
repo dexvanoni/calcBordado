@@ -81,7 +81,7 @@
 
         <div class="content">
             <div class="title m-b-md">
-                CALCULADORA DE BORDADOS ELETRÔNICOS
+                CALCULADORA DE BORDADOS ELETRÔNICOS - fff
             </div>
                 @if (session('success'))
                     <div class="alert alert-danger" role="alert">
