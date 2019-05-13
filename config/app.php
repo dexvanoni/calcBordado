@@ -52,7 +52,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://dfbordados.com.br'),
+    'url' => env('APP_URL', 'http://www.dfbordados.com.br'),
 
     'asset_url' => env('ASSET_URL', null),
 
