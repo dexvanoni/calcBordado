@@ -70,7 +70,7 @@
             @auth
             <a href="{{ route('red') }}">Calculadora</a>
             @else
-            <a href="{{ route('red') }}">Login</a>
+            <a href="{{ url('/login') }}">Login</a>
 
             @if (Route::has('register'))
             <a href="#" data-toggle="modal" data-target="#pg"> Solicitar Acesso</a>
