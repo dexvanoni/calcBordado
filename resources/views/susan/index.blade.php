@@ -10,13 +10,13 @@
     <!--    favicon-->
     <link rel="shortcut icon" href="image/fav-icon.png" type="image/x-icon">
     <!-- Bootstrap -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/bootstrap-theme.min.css" rel="stylesheet">
-    <link href="css/font-awesome.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="css/themify-icons.css">
-    <link rel="stylesheet" href="css/animate.css">
+    <link href="susan/css/bootstrap.min.css" rel="stylesheet">
+    <link href="susan/css/bootstrap-theme.min.css" rel="stylesheet">
+    <link href="susan/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="susan/css/themify-icons.css">
+    <link rel="stylesheet" href="susan/css/animate.css">
     <!--css-->
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="susan/css/style.css">
     <!-- HTmL5 shim and Respond.js for IE8 support of HTmL5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -120,18 +120,18 @@
         </div>
     </footer>
     <!--End Footer area-->
-    <script src="js/jquery-2.2.4.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/nav.js"></script>
+    <script src="susan/js/jquery-2.2.4.min.js"></script>
+    <script src="susan/js/bootstrap.min.js"></script>
+    <script src="susan/js/nav.js"></script>
     <!--waypoint js-->
-    <script src="vendores/waypoint/waypoints.min.js"></script>
+    <script src="susan/vendores/waypoint/waypoints.min.js"></script>
     <!--counter js-->
-    <script src="vendores/couterup/jquery.counterup.min.js"></script>
-    <script src="vendores/typedjs/typed.min.js"></script>
-    <script src="vendores/ripples/jquery.ripples-min.js"></script>
-    <script type="text/javascript" src="js/scrollIt.min.js"></script>
-    <script type="text/javascript" src="js/wow.js"></script>
-    <script src="js/custom.js"></script>
+    <script src="susan/vendores/couterup/jquery.counterup.min.js"></script>
+    <script src="susan/vendores/typedjs/typed.min.js"></script>
+    <script src="susan/vendores/ripples/jquery.ripples-min.js"></script>
+    <script type="text/javascript" src="susan/js/scrollIt.min.js"></script>
+    <script type="text/javascript" src="susan/js/wow.js"></script>
+    <script src="susan/js/custom.js"></script>
     <script>
     $(function() {
         $.scrollIt();
