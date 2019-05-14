@@ -6,9 +6,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>SuSan</title>
+    <title>DF Bordados</title>
     <!--    favicon-->
-    <link rel="shortcut icon" href="image/fav-icon.png" type="image/x-icon">
+    <link rel="shortcut icon" href="susan/image/fav-icon.png" type="image/x-icon">
     <!-- Bootstrap -->
     <link href="susan/css/bootstrap.min.css" rel="stylesheet">
     <link href="susan/css/bootstrap-theme.min.css" rel="stylesheet">
@@ -31,16 +31,16 @@
             <div class="container">
                 <div class="row">
                     <div class="hero-text">
-                        <h1>SuSan</h1>
+                        <h1>DF Bordados</h1>
                         <div id="typed-strings">
-                            <h3>SuSan App Landing Page Template</h3>
-                            <h3>SuSan Android Template</h3>
-                            <h3>SuSan Apple iso</h3>
+                            <h3>Bordados Perfeitos</h3>
+                            <h3>Agilidade na entrega</h3>
+                            <h3>Preço acessível</h3>
                         </div>
                         <h3><span id="typed"></span></h3>
-                        <h4>A Complete Landing Page and Multipurpose Package</h4>
-                        <a href="#" class="btn view-demo" data-scroll-nav="1">View Demos</a>
-                        <a href="#" class="btn buy-now">Buy SuSan</a>
+                        <h4>A mais nova Loja de Bordados Eletrônicos</h4>
+                        <a href="#" class="btn view-demo" data-scroll-nav="1">Facebook</a>
+                        <a href="#" class="btn buy-now">Orçamento</a>
                     </div>
                 </div>
             </div>
