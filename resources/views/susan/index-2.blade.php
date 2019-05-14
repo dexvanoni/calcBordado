@@ -9,30 +9,30 @@
         <title>SuSan - App Landing Page</title>
 
         <!-- Icon css link -->
-        <link href="vendors/themify-icon/themify-icons.css" rel="stylesheet">
-        <link href="css/font-awesome.min.css" rel="stylesheet">
-        <link href="vendors/linears-icon/style.css" rel="stylesheet">
+        <link href="susan/theme/vendors/themify-icon/themify-icons.css" rel="stylesheet">
+        <link href="susan/theme/css/font-awesome.min.css" rel="stylesheet">
+        <link href="susan/theme/vendors/linears-icon/style.css" rel="stylesheet">
         <!-- Bootstrap -->
-        <link href="css/bootstrap.min.css" rel="stylesheet">
+        <link href="susan/theme/css/bootstrap.min.css" rel="stylesheet">
         
         <!-- RS5.0 Layers and Navigation Styles -->
-        <link rel="stylesheet" type="text/css" href="vendors/revolution/css/layers.css">
-        <link rel="stylesheet" type="text/css" href="vendors/revolution/css/navigation.css">
-        <link rel="stylesheet" type="text/css" href="vendors/revolution/css/settings.css">
+        <link rel="stylesheet" type="text/css" href="susan/theme/vendors/revolution/css/layers.css">
+        <link rel="stylesheet" type="text/css" href="susan/theme/vendors/revolution/css/navigation.css">
+        <link rel="stylesheet" type="text/css" href="susan/theme/vendors/revolution/css/settings.css">
         
         <!-- Extra plugin css -->
-        <link href="vendors/animate-css/animate.css" rel="stylesheet">
-        <link href="vendors/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
-        <link href="vendors/flipster/jquery.flipster.css" rel="stylesheet">
+        <link href="susan/theme/vendors/animate-css/animate.css" rel="stylesheet">
+        <link href="susan/theme/vendors/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+        <link href="susan/theme/vendors/flipster/jquery.flipster.css" rel="stylesheet">
         
-        <link href="css/style.css" rel="stylesheet">
-        <link href="css/responsive.css" rel="stylesheet">
+        <link href="susan/theme/css/style.css" rel="stylesheet">
+        <link href="susan/theme/css/responsive.css" rel="stylesheet">
         
         <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
         <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
         <!--[if lt IE 9]>
-        <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
-        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <script src="susan/theme/https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+        <script src="susan/theme/https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
         <![endif]-->
     </head>
     <body>
@@ -49,7 +49,7 @@
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                         </button>
-                        <a class="navbar-brand" href="index.html"><img src="img/logo.png" alt=""></a>
+                        <a class="navbar-brand" href="index.html"><img src="susan/theme/img/logo.png" alt=""></a>
                     </div>
 
                     <!-- Collect the nav links, forms, and other content for toggling -->
@@ -86,7 +86,7 @@
                 <ul>
                     <li data-slotamount="7" data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="600" data-rotate="0" data-saveperformance="off" class="secand_slider">
                         <!-- MAIN IMAGE -->
-                        <img src="img/header-slider/slider-bg-2.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
+                        <img src="susan/theme/img/header-slider/slider-bg-2.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
                         <!-- LAYERS -->
                         <div class="tp-caption first_text" 
                             data-width="none"
@@ -163,16 +163,16 @@
                             data-splitout="none" 
                             data-responsive_offset="on">
                             <div class="slider_shap">
-                                <img src="img/header-slider/slider-m-shap.png" alt="">
+                                <img src="susan/theme/img/header-slider/slider-m-shap.png" alt="">
                                 <div class="slider_moblie owl-carousel">
                                     <div class="item">
-                                        <img src="img/header-slider/slider-m-display-1.jpg" alt="">
+                                        <img src="susan/theme/img/header-slider/slider-m-display-1.jpg" alt="">
                                     </div>
                                     <div class="item">
-                                        <img src="img/header-slider/slider-m-display-2.jpg" alt="">
+                                        <img src="susan/theme/img/header-slider/slider-m-display-2.jpg" alt="">
                                     </div>
                                     <div class="item">
-                                        <img src="img/header-slider/slider-m-display-3.jpg" alt="">
+                                        <img src="susan/theme/img/header-slider/slider-m-display-3.jpg" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -180,7 +180,7 @@
                     </li> 
                     <li data-slotamount="7" data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="600" data-rotate="0" data-saveperformance="off" class="first_slider">
                         <!-- MAIN IMAGE -->
-                        <img src="img/header-slider/slider-bg-1.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
+                        <img src="susan/theme/img/header-slider/slider-bg-1.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
                         <!-- LAYERS -->
                         <div class="tp-caption first_text" 
                             data-width="none"
@@ -257,7 +257,7 @@
                             data-splitout="none" 
                             data-responsive_offset="on">
                             <div class="slider_man_shap">
-                                <img src="img/header-slider/slider-man-shap.png" alt="">
+                                <img src="susan/theme/img/header-slider/slider-man-shap.png" alt="">
                             </div>
                         </div>
                     </li>
@@ -308,11 +308,11 @@
                 <div class="row">
                     <div class="col-md-4">
                         <div class="feature_mobile">
-                            <img src="img/feature-m-slider/feature-m-slider-shap.png" alt="">
+                            <img src="susan/theme/img/feature-m-slider/feature-m-slider-shap.png" alt="">
                             <div class="feature_mobile_slider owl-carousel">
-                                <div class="item"><img src="img/feature-m-slider/feature-m-slider-4.jpg" alt=""></div>
-                                <div class="item"><img src="img/feature-m-slider/feature-m-slider-5.jpg" alt=""></div>
-                                <div class="item"><img src="img/feature-m-slider/feature-m-slider-6.jpg" alt=""></div>
+                                <div class="item"><img src="susan/theme/img/feature-m-slider/feature-m-slider-4.jpg" alt=""></div>
+                                <div class="item"><img src="susan/theme/img/feature-m-slider/feature-m-slider-5.jpg" alt=""></div>
+                                <div class="item"><img src="susan/theme/img/feature-m-slider/feature-m-slider-6.jpg" alt=""></div>
                             </div>
                         </div>
                     </div>
@@ -401,13 +401,13 @@
                                 <h2>How it works</h2>
                             </div>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis no trud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-                            <a href="#"><img src="img/works/apple-btn.jpg" alt=""></a>
-                            <a href="#"><img src="img/works/google-btn.jpg" alt=""></a>
+                            <a href="#"><img src="susan/theme/img/works/apple-btn.jpg" alt=""></a>
+                            <a href="#"><img src="susan/theme/img/works/google-btn.jpg" alt=""></a>
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="works_left_img">
-                            <img src="img/works/work-2.jpg" alt="">
+                            <img src="susan/theme/img/works/work-2.jpg" alt="">
                         </div>
                     </div>
                 </div>
@@ -422,24 +422,24 @@
             </div>
             <div class="3d_screenshot_inner">
                 <ul>
-                    <li><img src="img/screenshot/screenshot-3d-1.jpg" alt=""></li>
-                    <li><img src="img/screenshot/screenshot-3d-2.jpg" alt=""></li>
-                    <li><img src="img/screenshot/screenshot-3d-3.jpg" alt=""></li>
-                    <li><img src="img/screenshot/screenshot-3d-4.jpg" alt=""></li>
-                    <li><img src="img/screenshot/screenshot-3d-5.jpg" alt=""></li>
-                    <li><img src="img/screenshot/screenshot-3d-6.jpg" alt=""></li>
-                    <li><img src="img/screenshot/screenshot-3d-7.jpg" alt=""></li>
-                    <li><img src="img/screenshot/screenshot-3d-1.jpg" alt=""></li>
-                    <li><img src="img/screenshot/screenshot-3d-2.jpg" alt=""></li>
-                    <li><img src="img/screenshot/screenshot-3d-3.jpg" alt=""></li>
-                    <li><img src="img/screenshot/screenshot-3d-4.jpg" alt=""></li>
-                    <li><img src="img/screenshot/screenshot-3d-5.jpg" alt=""></li>
-                    <li><img src="img/screenshot/screenshot-3d-6.jpg" alt=""></li>
-                    <li><img src="img/screenshot/screenshot-3d-7.jpg" alt=""></li>
-                    <li><img src="img/screenshot/screenshot-3d-4.jpg" alt=""></li>
-                    <li><img src="img/screenshot/screenshot-3d-5.jpg" alt=""></li>
-                    <li><img src="img/screenshot/screenshot-3d-6.jpg" alt=""></li>
-                    <li><img src="img/screenshot/screenshot-3d-7.jpg" alt=""></li>
+                    <li><img src="susan/theme/img/screenshot/screenshot-3d-1.jpg" alt=""></li>
+                    <li><img src="susan/theme/img/screenshot/screenshot-3d-2.jpg" alt=""></li>
+                    <li><img src="susan/theme/img/screenshot/screenshot-3d-3.jpg" alt=""></li>
+                    <li><img src="susan/theme/img/screenshot/screenshot-3d-4.jpg" alt=""></li>
+                    <li><img src="susan/theme/img/screenshot/screenshot-3d-5.jpg" alt=""></li>
+                    <li><img src="susan/theme/img/screenshot/screenshot-3d-6.jpg" alt=""></li>
+                    <li><img src="susan/theme/img/screenshot/screenshot-3d-7.jpg" alt=""></li>
+                    <li><img src="susan/theme/img/screenshot/screenshot-3d-1.jpg" alt=""></li>
+                    <li><img src="susan/theme/img/screenshot/screenshot-3d-2.jpg" alt=""></li>
+                    <li><img src="susan/theme/img/screenshot/screenshot-3d-3.jpg" alt=""></li>
+                    <li><img src="susan/theme/img/screenshot/screenshot-3d-4.jpg" alt=""></li>
+                    <li><img src="susan/theme/img/screenshot/screenshot-3d-5.jpg" alt=""></li>
+                    <li><img src="susan/theme/img/screenshot/screenshot-3d-6.jpg" alt=""></li>
+                    <li><img src="susan/theme/img/screenshot/screenshot-3d-7.jpg" alt=""></li>
+                    <li><img src="susan/theme/img/screenshot/screenshot-3d-4.jpg" alt=""></li>
+                    <li><img src="susan/theme/img/screenshot/screenshot-3d-5.jpg" alt=""></li>
+                    <li><img src="susan/theme/img/screenshot/screenshot-3d-6.jpg" alt=""></li>
+                    <li><img src="susan/theme/img/screenshot/screenshot-3d-7.jpg" alt=""></li>
                 </ul>
             </div>
         </section>
@@ -449,7 +449,7 @@
         <section class="our_benefits_area display_table purple_benefits">
             <div class="our_benefits_inner display_table_row">
                 <div class="benefits_left display_table_cell">
-                    <img src="img/benefits/benefits-left-1.jpg" alt="">
+                    <img src="susan/theme/img/benefits/benefits-left-1.jpg" alt="">
                 </div>
                 <div class="benefits_right display_table_cell">
                     <div class="benefits_content">
@@ -534,7 +534,7 @@
                 </div>
                 <div class="benefits_right display_table_cell">
                     <div class="row m0 video_row">
-                        <iframe id="video" src="http://www.youtube.com/embed/bgTdTBpQyi8?enablejsapi=1&html5=1&rel=0&fs=0&loop=1&showinfo=0&disablekb=1&controls=0&color=white&playlist=bgTdTBpQyi8"></iframe>
+                        <iframe id="video" src="susan/theme/http://www.youtube.com/embed/bgTdTBpQyi8?enablejsapi=1&html5=1&rel=0&fs=0&loop=1&showinfo=0&disablekb=1&controls=0&color=white&playlist=bgTdTBpQyi8"></iframe>
                         <div class="overlay" id="video_overlay">
                             <div class="overlay_bg"></div>
                             <div class="play_pause row m0">
@@ -563,7 +563,7 @@
                         <div class="clients_slider owl-carousel">
                             <div class="item">
                                 <p>“On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and et demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue”</p>
-                                <img src="img/clients/clients-1.png" alt="">
+                                <img src="susan/theme/img/clients/clients-1.png" alt="">
                                 <a href="#"><h4>Prodip Ghosh</h4></a>
                                 <h5>CEO of themeXart</h5>
                                 <ul>
@@ -574,7 +574,7 @@
                             </div>
                             <div class="item">
                                 <p>“On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and et demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue”</p>
-                                <img src="img/clients/clients-1.png" alt="">
+                                <img src="susan/theme/img/clients/clients-1.png" alt="">
                                 <a href="#"><h4>Prodip Ghosh</h4></a>
                                 <h5>CEO of themeXart</h5>
                                 <ul>
@@ -585,7 +585,7 @@
                             </div>
                             <div class="item">
                                 <p>“On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and et demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue”</p>
-                                <img src="img/clients/clients-1.png" alt="">
+                                <img src="susan/theme/img/clients/clients-1.png" alt="">
                                 <a href="#"><h4>Prodip Ghosh</h4></a>
                                 <h5>CEO of themeXart</h5>
                                 <ul>
@@ -608,7 +608,7 @@
                 <div class="row">
                     <div class="col-md-6">
                         <div class="right_detail_img">
-                            <img src="img/right_detail_img.png" alt="">
+                            <img src="susan/theme/img/right_detail_img.png" alt="">
                         </div>
                     </div>
                     <div class="col-md-6">
@@ -689,8 +689,8 @@
                     <h4>Get the app for android & iOS</h4>
                     <h3>Download Now</h3>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis no trud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-                    <a href="https://www.apple.com/"><img src="img/download-1.png" alt=""></a>
-                    <a href="https://play.google.com/store?hl=en"><img src="img/download-2.png" alt=""></a>
+                    <a href="https://www.apple.com/"><img src="susan/theme/img/download-1.png" alt=""></a>
+                    <a href="https://play.google.com/store?hl=en"><img src="susan/theme/img/download-2.png" alt=""></a>
                 </div>
             </div>
         </section>
@@ -792,7 +792,7 @@
                     </div>
                 </div>
                 <div class="right_question_img">
-                    <img src="img/question-img-2.jpg" alt="">
+                    <img src="susan/theme/img/question-img-2.jpg" alt="">
                 </div>
             </div>
         </section>
@@ -807,7 +807,7 @@
                 <div class="expert_slider owl-carousel">
                     <div class="item">
                         <div class="expert_inner">
-                            <img src="img/expert-team/expert-team-1.jpg" alt="">
+                            <img src="susan/theme/img/expert-team/expert-team-1.jpg" alt="">
                             <div class="expert_hover">
                                 <div class="expet_hover_inner">
                                     <div class="expert_hover_text">
@@ -825,7 +825,7 @@
                     </div>
                     <div class="item">
                         <div class="expert_inner">
-                            <img src="img/expert-team/expert-team-2.jpg" alt="">
+                            <img src="susan/theme/img/expert-team/expert-team-2.jpg" alt="">
                             <div class="expert_hover">
                                 <div class="expet_hover_inner">
                                     <div class="expert_hover_text">
@@ -843,7 +843,7 @@
                     </div>
                     <div class="item">
                         <div class="expert_inner">
-                            <img src="img/expert-team/expert-team-3.jpg" alt="">
+                            <img src="susan/theme/img/expert-team/expert-team-3.jpg" alt="">
                             <div class="expert_hover">
                                 <div class="expet_hover_inner">
                                     <div class="expert_hover_text">
@@ -861,7 +861,7 @@
                     </div>
                     <div class="item">
                         <div class="expert_inner">
-                            <img src="img/expert-team/expert-team-4.jpg" alt="">
+                            <img src="susan/theme/img/expert-team/expert-team-4.jpg" alt="">
                             <div class="expert_hover">
                                 <div class="expet_hover_inner">
                                     <div class="expert_hover_text">
@@ -879,7 +879,7 @@
                     </div>
                     <div class="item">
                         <div class="expert_inner">
-                            <img src="img/expert-team/expert-team-1.jpg" alt="">
+                            <img src="susan/theme/img/expert-team/expert-team-1.jpg" alt="">
                             <div class="expert_hover">
                                 <div class="expet_hover_inner">
                                     <div class="expert_hover_text">
@@ -897,7 +897,7 @@
                     </div>
                     <div class="item">
                         <div class="expert_inner">
-                            <img src="img/expert-team/expert-team-2.jpg" alt="">
+                            <img src="susan/theme/img/expert-team/expert-team-2.jpg" alt="">
                             <div class="expert_hover">
                                 <div class="expet_hover_inner">
                                     <div class="expert_hover_text">
@@ -915,7 +915,7 @@
                     </div>
                     <div class="item">
                         <div class="expert_inner">
-                            <img src="img/expert-team/expert-team-3.jpg" alt="">
+                            <img src="susan/theme/img/expert-team/expert-team-3.jpg" alt="">
                             <div class="expert_hover">
                                 <div class="expet_hover_inner">
                                     <div class="expert_hover_text">
@@ -933,7 +933,7 @@
                     </div>
                     <div class="item">
                         <div class="expert_inner">
-                            <img src="img/expert-team/expert-team-4.jpg" alt="">
+                            <img src="susan/theme/img/expert-team/expert-team-4.jpg" alt="">
                             <div class="expert_hover">
                                 <div class="expet_hover_inner">
                                     <div class="expert_hover_text">
@@ -951,7 +951,7 @@
                     </div>
                     <div class="item">
                         <div class="expert_inner">
-                            <img src="img/expert-team/expert-team-1.jpg" alt="">
+                            <img src="susan/theme/img/expert-team/expert-team-1.jpg" alt="">
                             <div class="expert_hover">
                                 <div class="expet_hover_inner">
                                     <div class="expert_hover_text">
@@ -969,7 +969,7 @@
                     </div>
                     <div class="item">
                         <div class="expert_inner">
-                            <img src="img/expert-team/expert-team-2.jpg" alt="">
+                            <img src="susan/theme/img/expert-team/expert-team-2.jpg" alt="">
                             <div class="expert_hover">
                                 <div class="expet_hover_inner">
                                     <div class="expert_hover_text">
@@ -987,7 +987,7 @@
                     </div>
                     <div class="item">
                         <div class="expert_inner">
-                            <img src="img/expert-team/expert-team-3.jpg" alt="">
+                            <img src="susan/theme/img/expert-team/expert-team-3.jpg" alt="">
                             <div class="expert_hover">
                                 <div class="expet_hover_inner">
                                     <div class="expert_hover_text">
@@ -1005,7 +1005,7 @@
                     </div>
                     <div class="item">
                         <div class="expert_inner">
-                            <img src="img/expert-team/expert-team-4.jpg" alt="">
+                            <img src="susan/theme/img/expert-team/expert-team-4.jpg" alt="">
                             <div class="expert_hover">
                                 <div class="expet_hover_inner">
                                     <div class="expert_hover_text">
@@ -1036,7 +1036,7 @@
                     <div class="col-md-4">
                         <div class="latest_blog_item">
                             <div class="l_blog_img">
-                                <img src="img/latest-blog/latest-blog-1.jpg" alt="">
+                                <img src="susan/theme/img/latest-blog/latest-blog-1.jpg" alt="">
                                 <div class="l_blog_hover">
                                     <a href="#"><i class="lnr lnr-link"></i></a>
                                 </div>
@@ -1049,7 +1049,7 @@
                     <div class="col-md-4">
                         <div class="latest_blog_item">
                             <div class="l_blog_img">
-                                <img src="img/latest-blog/latest-blog-2.jpg" alt="">
+                                <img src="susan/theme/img/latest-blog/latest-blog-2.jpg" alt="">
                                 <div class="l_blog_hover">
                                     <a href="#"><i class="lnr lnr-link"></i></a>
                                 </div>
@@ -1062,7 +1062,7 @@
                     <div class="col-md-4">
                         <div class="latest_blog_item">
                             <div class="l_blog_img">
-                                <img src="img/latest-blog/latest-blog-3.jpg" alt="">
+                                <img src="susan/theme/img/latest-blog/latest-blog-3.jpg" alt="">
                                 <div class="l_blog_hover">
                                     <a href="#"><i class="lnr lnr-link"></i></a>
                                 </div>
@@ -1082,16 +1082,16 @@
             <div class="container">
                 <div class="sponsor_slider owl-carousel">
                     <div class="item">
-                        <img src="img/sponsors/sponsors-1.png" alt="">
+                        <img src="susan/theme/img/sponsors/sponsors-1.png" alt="">
                     </div>
                     <div class="item">
-                        <img src="img/sponsors/sponsors-2.png" alt="">
+                        <img src="susan/theme/img/sponsors/sponsors-2.png" alt="">
                     </div>
                     <div class="item">
-                        <img src="img/sponsors/sponsors-3.png" alt="">
+                        <img src="susan/theme/img/sponsors/sponsors-3.png" alt="">
                     </div>
                     <div class="item">
-                        <img src="img/sponsors/sponsors-4.png" alt="">
+                        <img src="susan/theme/img/sponsors/sponsors-4.png" alt="">
                     </div>
                 </div>
             </div>
@@ -1218,35 +1218,35 @@
         
         
         <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-        <script src="js/jquery-2.1.4.min.js"></script>
+        <script src="susan/theme/js/jquery-2.1.4.min.js"></script>
         <!-- Include all compiled plugins (below), or include individual files as needed -->
-        <script src="js/bootstrap.min.js"></script>
+        <script src="susan/theme/js/bootstrap.min.js"></script>
         
-        <script src="vendors/revolution/js/jquery.themepunch.tools.min.js"></script>
-        <script src="vendors/revolution/js/jquery.themepunch.revolution.min.js"></script>
+        <script src="susan/theme/vendors/revolution/js/jquery.themepunch.tools.min.js"></script>
+        <script src="susan/theme/vendors/revolution/js/jquery.themepunch.revolution.min.js"></script>
         <!--RS5.0 Extensions-->
-        <script src="vendors/revolution/js/extensions/revolution.extension.actions.min.js"></script>
-        <script src="vendors/revolution/js/extensions/revolution.extension.carousel.min.js"></script>
-        <script type="text/javascript" src="vendors/revolution/js/extensions/revolution.extension.kenburn.min.js"></script>
-        <script type="text/javascript" src="vendors/revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>
-        <script type="text/javascript" src="vendors/revolution/js/extensions/revolution.extension.migration.min.js"></script>
-        <script src="vendors/revolution/js/extensions/revolution.extension.navigation.min.js"></script>
-        <script src="vendors/revolution/js/extensions/revolution.extension.parallax.min.js"></script>
-        <script src="vendors/revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
-        <script src="vendors/revolution/js/extensions/revolution.extension.video.min.js"></script>
+        <script src="susan/theme/vendors/revolution/js/extensions/revolution.extension.actions.min.js"></script>
+        <script src="susan/theme/vendors/revolution/js/extensions/revolution.extension.carousel.min.js"></script>
+        <script type="text/javascript" src="susan/theme/vendors/revolution/js/extensions/revolution.extension.kenburn.min.js"></script>
+        <script type="text/javascript" src="susan/theme/vendors/revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>
+        <script type="text/javascript" src="susan/theme/vendors/revolution/js/extensions/revolution.extension.migration.min.js"></script>
+        <script src="susan/theme/vendors/revolution/js/extensions/revolution.extension.navigation.min.js"></script>
+        <script src="susan/theme/vendors/revolution/js/extensions/revolution.extension.parallax.min.js"></script>
+        <script src="susan/theme/vendors/revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
+        <script src="susan/theme/vendors/revolution/js/extensions/revolution.extension.video.min.js"></script>
         <!-- Extra plugin js -->
-        <script src="vendors/owlcarousel/owl.carousel.min.js"></script>
-        <script src="vendors/flipster/jquery.flipster.min.js"></script>
+        <script src="susan/theme/vendors/owlcarousel/owl.carousel.min.js"></script>
+        <script src="susan/theme/vendors/flipster/jquery.flipster.min.js"></script>
         <!-- contact js -->
-        <script src="js/jquery.form.js"></script>
-        <script src="js/jquery.validate.min.js"></script>
-        <script src="js/contact.js"></script>
+        <script src="susan/theme/js/jquery.form.js"></script>
+        <script src="susan/theme/js/jquery.validate.min.js"></script>
+        <script src="susan/theme/js/contact.js"></script>
         
         <!--gmaps Js-->
         <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCjCGmQ0Uq4exrzdcL6rvxywDDOvfAu6eE"></script>
-        <script src="js/gmaps.min.js"></script>
+        <script src="susan/theme/js/gmaps.min.js"></script>
         
-        <script src="js/video_player.js"></script>
-        <script src="js/theme.js"></script>
+        <script src="susan/theme/js/video_player.js"></script>
+        <script src="susan/theme/js/theme.js"></script>
     </body>
 </html>
