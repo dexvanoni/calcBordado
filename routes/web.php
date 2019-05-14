@@ -11,8 +11,13 @@
 |
 */
 
-Route::get('/', function () {
+/*Route::get('/', function () {
     return view('welcome');
+})->name('inicio');*/
+
+
+Route::get('/', function () {
+    return view('susan.index');
 })->name('inicio');
 
 Auth::routes();
