@@ -55,7 +55,7 @@
                 <div class="col-md-4 col-sm-6 col-xs-12">
                     <a href="theme/index.html" target="_blank">
                         <div class="item-imag">
-                            <img src="image/product/index-1.png" class="img-responsive radius" alt="">
+                            <img src="susan/image/product/index-1.png" class="img-responsive radius" alt="">
                             <p class="product-title">OnePage - 01</p>
                         </div>
                     </a>
