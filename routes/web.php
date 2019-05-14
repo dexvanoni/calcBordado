@@ -17,7 +17,7 @@
 
 
 Route::get('/', function () {
-    return view('susan.index');
+    return view('susan.index-2');
 })->name('inicio');
 
 Auth::routes();
