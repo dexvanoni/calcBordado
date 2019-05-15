@@ -127,7 +127,7 @@
                             data-start="800" 
                             data-splitin="none" 
                             data-splitout="none" 
-                            data-responsive_offset="on">A DF Bordados conta com o desenvolvimento de matrizes em um sistema Profissional que possibilita o bordado perfeito em qualquer tecido, tamanho e densidade de cores.
+                            data-responsive_offset="on">Bordados em jalecos, bodys, toalhas, jalecos, uniformes e mais uma infinidade de trbalhos personalizados.
                         </div>
                         <!--<div class="tp-caption download_btn"
                             data-whitespace="nowrap"
