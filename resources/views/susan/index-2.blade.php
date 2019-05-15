@@ -200,7 +200,7 @@
                             data-start="800" 
                             data-splitin="none" 
                             data-splitout="none" 
-                            data-responsive_offset="on">Bordados de qualidade <br /> Desenvolvimento de matrizes profissionais
+                            data-responsive_offset="on">Bordados de qualidade <br /> Desenvolvimento de matrizes <br /> profissionais
                         </div>
                         <!-- LAYERS -->
                         <div class="tp-caption some_text" 
