@@ -270,28 +270,28 @@
         <section class="our_service_area purple_service">
             <div class="container">
                 <div class="main_title purple_title">
-                    <h2>Our Services</h2>
+                    <h2>Serviços</h2>
                 </div>
                 <div class="row">
                     <div class="col-md-4">
                         <div class="service_item">
                             <i class="lnr lnr-cloud-check"></i>
-                            <a href="#"><h3>Data In Cloud</h3></a>
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since .</p>
+                            <a href="#"><h3>Arte Salva</h3></a>
+                            <p>Mantemos sua matriz sempre salva e disponível. Não perca tempo criando sua arte. Disponibilizamos este serviço gratuitamente! </p>
                         </div>
                     </div>
                     <div class="col-md-4">
                         <div class="service_item">
                             <i class="lnr lnr-phone"></i>
-                            <a href="#"><h3>24/7 Support</h3></a>
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since .</p>
+                            <a href="#"><h3>Suporte Personalizado</h3></a>
+                            <p>Compromisso em atender com rapidez a todos os clientes via telefone, Whatsapp, email, etc.</p>
                         </div>
                     </div>
                     <div class="col-md-4">
                         <div class="service_item">
                             <i class="lnr lnr-laptop"></i>
-                            <a href="#"><h3>Fully Responsive</h3></a>
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since .</p>
+                            <a href="#"><h3>Aprovação</h3></a>
+                            <p>Enviamos ao cliente uma folha de Aprovação para que possa ser feita a avaliação da matriz antes de ser bordada.</p>
                         </div>
                     </div>
                 </div>
