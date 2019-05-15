@@ -56,13 +56,13 @@
                     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                         <ul class="nav navbar-nav navbar-right">
                             <li><a href="#home">Home</a></li>
-                            <li><a href="#feature">Features</a></li>
-                            <li><a href="#screenshot">Screenshots</a></li>
+                            <li><a href="#feature">Calculadora</a></li>
+                            <li><a href="#screenshot">Imagens</a></li>
                             <li><a href="#feedback">Feedback</a></li>
-                            <li><a href="#price">Price</a></li>
-                            <li><a href="#download">Download</a></li>
+                            <li><a href="#price">Promoções</a></li>
+                            <li><a href="#download">Facebook</a></li>
                             <li><a href="#team">Team</a></li>
-                            <li class="dropdown submenu">
+                            <!--<li class="dropdown submenu">
                                 <a href="#blog" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Blog</a>
                                 <i class="fa fa-chevron-down click_btn" aria-hidden="true"></i>
                                 <ul class="dropdown-menu">
@@ -71,8 +71,8 @@
                                     <li><a href="blog-details.html">Blog Details</a></li>
                                     <li><a href="blog-details-2.html">Blog Details Two</a></li>
                                 </ul>
-                            </li>
-                            <li><a href="#contact">Contact</a></li>
+                            </li>-->
+                            <li><a href="#contact">Contatos</a></li>
                         </ul>
                     </div><!-- /.navbar-collapse -->
                 </div><!-- /.container-fluid -->
@@ -106,7 +106,7 @@
                             data-start="800" 
                             data-splitin="none" 
                             data-splitout="none" 
-                            data-responsive_offset="on">Discover great Apps, Games, <br /> Extensions & Plugin Showcase
+                            data-responsive_offset="on">Bordados de qualidade <br /> Desenvolvimento de matrizes profissionais
                         </div>
                         <!-- LAYERS -->
                         <div class="tp-caption some_text" 
@@ -127,9 +127,9 @@
                             data-start="800" 
                             data-splitin="none" 
                             data-splitout="none" 
-                            data-responsive_offset="on">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis ets nostrud exercitation ullamco.
+                            data-responsive_offset="on">A DF Bordados conta com o desenvolvimento de matrizes em um sistema Profissional que possibilita o bordado perfeito em qualquer tecido, tamanho e densidade de cores.
                         </div>
-                        <div class="tp-caption download_btn"
+                        <!--<div class="tp-caption download_btn"
                             data-whitespace="nowrap"
                             data-voffset="['515','515','430']"
                             data-hoffset="['0','0','0']"
@@ -142,7 +142,7 @@
                             data-y="top"
                             data-start="1800" >
                             <a class="register_angkar_btn purple_s_btn" href="#"><i class="lnr lnr-download"></i>Download</a>
-                        </div>
+                        </div>-->
                         <div class="tp-caption right_text" 
                             data-width="none"
                             data-height="none"
@@ -200,7 +200,7 @@
                             data-start="800" 
                             data-splitin="none" 
                             data-splitout="none" 
-                            data-responsive_offset="on">Discover great Apps, Games, <br /> Extensions & Plugin Showcase
+                            data-responsive_offset="on">Bordados de qualidade <br /> Desenvolvimento de matrizes profissionais
                         </div>
                         <!-- LAYERS -->
                         <div class="tp-caption some_text" 
@@ -221,7 +221,7 @@
                             data-start="800" 
                             data-splitin="none" 
                             data-splitout="none" 
-                            data-responsive_offset="on">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis ets nostrud exercitation ullamco.
+                            data-responsive_offset="on">A DF Bordados conta com o desenvolvimento de matrizes em um sistema Profissional que possibilita o bordado perfeito em qualquer tecido, tamanho e densidade de cores.
                         </div>
                         <div class="tp-caption download_btn"
                             data-whitespace="nowrap"
@@ -235,7 +235,7 @@
                             data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"  
                             data-y="top"
                             data-start="1800" >
-                            <a class="register_angkar_btn" href="#"><i class="lnr lnr-download"></i>Download</a>
+                            <!--<a class="register_angkar_btn" href="#"><i class="lnr lnr-download"></i>Download</a>-->
                         </div>
                         <div class="tp-caption right_text" 
                             data-width="none"
