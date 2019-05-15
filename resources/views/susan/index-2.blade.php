@@ -303,7 +303,7 @@
         <section class="feature_area purple_feature" id="feature">
             <div class="container">
                 <div class="main_title purple_title">
-                    <h2>Amazing Features</h2>
+                    <h2>Calculadora de Bordados Eletrônicos</h2>
                 </div>
                 <div class="row">
                     <div class="col-md-4">
