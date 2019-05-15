@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="icon" href="img/fav-icon.png" type="image/x-icon" />
         <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-        <title>SuSan - App Landing Page</title>
+        <title>DF Bordados</title>
 
         <!-- Icon css link -->
         <link href="susan/theme/vendors/themify-icon/themify-icons.css" rel="stylesheet">
@@ -49,7 +49,7 @@
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                         </button>
-                        <a class="navbar-brand" href="index.html"><img src="susan/theme/img/logo.png" alt=""></a>
+                        <a class="navbar-brand" href="index.html"><img src="susan/theme/img/logo_df.png" alt=""></a>
                     </div>
 
                     <!-- Collect the nav links, forms, and other content for toggling -->
