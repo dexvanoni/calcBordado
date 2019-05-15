@@ -392,7 +392,7 @@
         <!--================End Feature Area =================-->
         
         <!--================Works Area =================-->
-        <section class="works_area">
+        <!--<section class="works_area">
             <div class="container">
                 <div class="row">
                     <div class="col-md-6">
@@ -412,13 +412,13 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section>-->
         <!--================End Works Area =================-->
         
         <!--================Screenshot Area =================-->
         <section class="screenshot_area" id="screenshot">
             <div class="main_title purple_title">
-                <h2>Screenshots</h2>
+                <h2>Alguns Trabalhos</h2>
             </div>
             <div class="3d_screenshot_inner">
                 <ul>
