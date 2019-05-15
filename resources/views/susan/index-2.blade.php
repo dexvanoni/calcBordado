@@ -323,8 +323,8 @@
                                     <i class="lnr lnr-screen"></i>
                                 </div>
                                 <div class="media-body">
-                                    <a href="#"><h4>Beautiful Design</h4></a>
-                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+                                    <a href="#"><h4>Design Intuitivo</h4></a>
+                                    <p>O design da calculadora é intuitivo e elegante.</p>
                                 </div>
                             </div>
                         </div>
@@ -334,8 +334,8 @@
                                     <i class="lnr lnr-laptop-phone"></i>
                                 </div>
                                 <div class="media-body">
-                                    <a href="#"><h4>Well Documented</h4></a>
-                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+                                    <a href="#"><h4>Responsivo</h4></a>
+                                    <p>Utilize no computador, tablet ou smartphone.</p>
                                 </div>
                             </div>
                         </div>
@@ -345,8 +345,8 @@
                                     <i class="lnr lnr-film-play"></i>
                                 </div>
                                 <div class="media-body">
-                                    <a href="#"><h4>24/7 Support</h4></a>
-                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+                                    <a href="#"><h4>Vídeo</h4></a>
+                                    <p>Disponibilizamos um vídeo explicativo de utilização do sistema. </p>
                                 </div>
                             </div>
                         </div>
@@ -358,8 +358,8 @@
                                     <i class="lnr lnr-dice"></i>
                                 </div>
                                 <div class="media-body">
-                                    <a href="#"><h4>Beautiful Design</h4></a>
-                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+                                    <a href="#"><h4>Cálculo</h4></a>
+                                    <p>Cálculo preciso do custo do bordado. Os dados inseridos são salvos e  utilizados como base para o cálculo. </p>
                                 </div>
                             </div>
                         </div>
@@ -369,8 +369,8 @@
                                     <i class="lnr lnr-select"></i>
                                 </div>
                                 <div class="media-body">
-                                    <a href="#"><h4>Well Documented</h4></a>
-                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+                                    <a href="#"><h4>Fácil</h4></a>
+                                    <p>Calcular o custo do seu trabalho nunca foi tão fácil. Poucos cliques e muitas informações.</p>
                                 </div>
                             </div>
                         </div>
@@ -380,8 +380,8 @@
                                     <i class="lnr lnr-phone"></i>
                                 </div>
                                 <div class="media-body">
-                                    <a href="#"><h4>24/7 Support</h4></a>
-                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+                                    <a href="#"><h4>Suporte e Aquisição</h4></a>
+                                    <p>Dedicado aos profissionais de micro e pequenas empresas de bordados. Solicite o acesso a Calculadora de Bordados Eletrônicos agora mesmo! </p>
                                 </div>
                             </div>
                         </div>
