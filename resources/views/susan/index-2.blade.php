@@ -49,7 +49,7 @@
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                         </button>
-                        <a class="navbar-brand" href="index.html"><img src="susan/theme/img/logo_df.png" alt=""></a>
+                        <a class="navbar-brand" href="index.html"><img src="susan/theme/img/logo_df_branco_50.png" alt=""></a>
                     </div>
 
                     <!-- Collect the nav links, forms, and other content for toggling -->
